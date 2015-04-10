@@ -1,0 +1,9 @@
+.parent-container {
+    display: inline-block;
+    position: relative;
+    overflow: auto;
+}
+.child-container {
+    display: inline-block;
+    margin: 2px;
+}
